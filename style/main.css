@@ -8,10 +8,6 @@ body {
   background-color: black;
   color: white;
 }
-.profile-picture{
-width:25%;
-  height:50%;
-}
 
 .song {
   visibility: hidden;
@@ -109,13 +105,13 @@ width:25%;
 
 .six img {
   display: inline-block;
-  height: 350px;
+  height: 500px;
   max-width: 100%;
   /* height: auto; */
 }
 
 .six .hat {
-  left: 41.5%;
+  left: 35%;
   position: absolute;
   /* transform: scale(0.1); */
   top: -35%;
