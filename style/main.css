@@ -8,6 +8,10 @@ body {
   background-color: black;
   color: white;
 }
+.profile-picture{
+width:100px;
+  height:100px;
+}
 
 .song {
   visibility: hidden;
